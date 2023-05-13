@@ -5,8 +5,6 @@
 <img width="938" alt="image" src="https://github.com/tariqaxix/Database-Project/assets/87133084/c8500642-bb74-45d7-9fb1-625ca7617fb0">
 
 
-<img width="889" alt="image" src="https://github.com/tariqaxix/Database-Project/assets/87133084/00339f29-7142-4a93-80b8-c450dab56cb2">
-
 <img width="956" alt="image" src="https://github.com/tariqaxix/Database-Project/assets/87133084/6cded5ad-7612-4823-939a-5cd99c21d10a">
 
 
